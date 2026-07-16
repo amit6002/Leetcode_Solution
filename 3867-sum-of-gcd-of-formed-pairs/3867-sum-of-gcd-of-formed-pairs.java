@@ -1,7 +1,11 @@
 class Solution {
     int gcd(int a,int b){
-        if(b==0) return a;
-        return gcd(b,a%b);
+       while(b != 0) {
+            int temp = a % b;
+            a = b;
+            b = temp;
+        }
+        return a;
     }
     public long gcdSum(int[] nums) {
         int max=Integer.MIN_VALUE;
