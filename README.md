@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amit6002/Leetcode_Solution/tree/master/0055-jump-game) |
+| [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/amit6002/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/amit6002/Leetcode_Solution/tree/master/0605-can-place-flowers) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amit6002/Leetcode_Solution/tree/master/0055-jump-game) |
+| [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 ## Stack
 |  |
@@ -93,5 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
