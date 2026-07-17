@@ -7,18 +7,26 @@ class Solution {
         int m = heights.length;
         int n = heights[0].length;
 
+        boolean[][] pacific = new boolean[m][n];
+        boolean[][] atlantic = new boolean[m][n];
+
+        for(int c=0;c<n;c++)
+            dfs(0,c,heights,pacific);
+
+        for(int r=0;r<m;r++)
+            dfs(r,0,heights,pacific);
+
+        for(int c=0;c<n;c++)
+            dfs(m-1,c,heights,atlantic);
+
+        for(int r=0;r<m;r++)
+            dfs(r,n-1,heights,atlantic);
+
         List<List<Integer>> ans = new ArrayList<>();
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-
-                boolean[][] vis = new boolean[m][n];
-                boolean pacific = dfs(i,j,heights,vis,true);
-
-                vis = new boolean[m][n];
-                boolean atlantic = dfs(i,j,heights,vis,false);
-
-                if(pacific && atlantic){
+                if(pacific[i][j] && atlantic[i][j]){
                     ans.add(Arrays.asList(i,j));
                 }
             }
@@ -27,20 +35,15 @@ class Solution {
         return ans;
     }
 
-    boolean dfs(int r,int c,int[][] h,boolean[][] vis,boolean pacific){
+    void dfs(int r,int c,int[][] heights,boolean[][] vis){
 
-        int m=h.length;
-        int n=h[0].length;
-
-        if(pacific){
-            if(r==0 || c==0)
-                return true;
-        }else{
-            if(r==m-1 || c==n-1)
-                return true;
-        }
+        if(vis[r][c])
+            return;
 
         vis[r][c]=true;
+
+        int m=heights.length;
+        int n=heights[0].length;
 
         for(int[] d:dir){
 
@@ -50,16 +53,10 @@ class Solution {
             if(nr<0||nc<0||nr>=m||nc>=n)
                 continue;
 
-            if(vis[nr][nc])
+            if(heights[nr][nc] < heights[r][c])
                 continue;
 
-            if(h[nr][nc]>h[r][c])
-                continue;
-
-            if(dfs(nr,nc,h,vis,pacific))
-                return true;
+            dfs(nr,nc,heights,vis);
         }
-
-        return false;
     }
 }
