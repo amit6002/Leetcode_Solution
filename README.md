@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/amit6002/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 ## Monotonic Stack
 |  |
@@ -89,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amit6002/Leetcode_Solution/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amit6002/Leetcode_Solution/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
