@@ -1,31 +1,29 @@
 class Solution {
     public String reverseVowels(String s) {
-        int i=0;int j=s.length()-1;
-        char [] arr=s.toCharArray();
-    Set<Character> set = new HashSet<>();
-        set.add('a');
-        set.add('e');
-        set.add('i');
-        set.add('o');
-        set.add('u');
-       
+        char[] arr = s.toCharArray();
+        int left = 0, right = arr.length - 1;
 
-        while(i<j){
-            char a = Character.toLowerCase(arr[i]);
-            char b = Character.toLowerCase(arr[j]);
-            if(set.contains(a) && set.contains(b)) {
-                char temp=arr[i];
-                arr[i]=arr[j];
-                arr[j]=temp;
+        while (left < right) {
+            while (left < right && !isVowel(arr[left])) {
+                left++;
             }
-           if (!set.contains(a)) i++;
-           else if (!set.contains(b)) j--;
-           else {
-                i++;
-                j--;
+            while (left < right && !isVowel(arr[right])) {
+                right--;
             }
 
+            char temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+
+            left++;
+            right--;
         }
+
         return new String(arr);
+    }
+
+    private boolean isVowel(char c) {
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||
+               c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
     }
 }
