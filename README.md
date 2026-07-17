@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/amit6002/Leetcode_Solution/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/amit6002/Leetcode_Solution/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/amit6002/Leetcode_Solution/tree/master/0605-can-place-flowers) |
 | [0918-maximum-sum-circular-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amit6002/Leetcode_Solution/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/amit6002/Leetcode_Solution/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/amit6002/Leetcode_Solution/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
