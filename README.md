@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/amit6002/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/amit6002/Leetcode_Solution/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amit6002/Leetcode_Solution/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/amit6002/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amit6002/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amit6002/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 ## Tree
 |  |
