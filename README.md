@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amit6002/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
 |  |
@@ -126,13 +127,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amit6002/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amit6002/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amit6002/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amit6002/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/amit6002/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amit6002/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amit6002/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/amit6002/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
