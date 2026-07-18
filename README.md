@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/amit6002/Leetcode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 ## Stack
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amit6002/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/amit6002/Leetcode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amit6002/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/amit6002/Leetcode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
