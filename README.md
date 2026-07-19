@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/amit6002/Leetcode_Solution/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
+| [0343-integer-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0343-integer-break) |
 | [0435-non-overlapping-intervals](https://github.com/amit6002/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amit6002/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/amit6002/Leetcode_Solution/tree/master/0048-rotate-image) |
+| [0343-integer-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0343-integer-break) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
