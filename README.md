@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amit6002/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amit6002/Leetcode_Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0784-letter-case-permutation](https://github.com/amit6002/Leetcode_Solution/tree/master/0784-letter-case-permutation) |
 ## Trie
 |  |
 | ------- |
@@ -163,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/amit6002/Leetcode_Solution/tree/master/0424-longest-repeating-character-replacement) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/amit6002/Leetcode_Solution/tree/master/0784-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/amit6002/Leetcode_Solution/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
