@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amit6002/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0343-integer-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0343-integer-break) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amit6002/Leetcode_Solution/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/amit6002/Leetcode_Solution/tree/master/0784-letter-case-permutation) |
 | [0925-long-pressed-name](https://github.com/amit6002/Leetcode_Solution/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amit6002/Leetcode_Solution/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Trie
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/amit6002/Leetcode_Solution/tree/master/0784-letter-case-permutation) |
+## Counting
+|  |
+| ------- |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amit6002/Leetcode_Solution/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 <!---LeetCode Topics End-->
