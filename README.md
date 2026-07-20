@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1260-shift-2d-grid](https://github.com/amit6002/Leetcode_Solution/tree/master/1260-shift-2d-grid) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amit6002/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/amit6002/Leetcode_Solution/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amit6002/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/amit6002/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amit6002/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [1260-shift-2d-grid](https://github.com/amit6002/Leetcode_Solution/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
 | ------- |
