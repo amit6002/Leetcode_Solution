@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/amit6002/Leetcode_Solution/tree/master/1260-shift-2d-grid) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1946-largest-number-after-mutating-substring](https://github.com/amit6002/Leetcode_Solution/tree/master/1946-largest-number-after-mutating-substring) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amit6002/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/amit6002/Leetcode_Solution/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1946-largest-number-after-mutating-substring](https://github.com/amit6002/Leetcode_Solution/tree/master/1946-largest-number-after-mutating-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/amit6002/Leetcode_Solution/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1946-largest-number-after-mutating-substring](https://github.com/amit6002/Leetcode_Solution/tree/master/1946-largest-number-after-mutating-substring) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amit6002/Leetcode_Solution/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
