@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amit6002/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1540-can-convert-string-in-k-moves](https://github.com/amit6002/Leetcode_Solution/tree/master/1540-can-convert-string-in-k-moves) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/amit6002/Leetcode_Solution/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1540-can-convert-string-in-k-moves](https://github.com/amit6002/Leetcode_Solution/tree/master/1540-can-convert-string-in-k-moves) |
 | [1946-largest-number-after-mutating-substring](https://github.com/amit6002/Leetcode_Solution/tree/master/1946-largest-number-after-mutating-substring) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amit6002/Leetcode_Solution/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
