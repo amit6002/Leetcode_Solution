@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-largest-number-after-mutating-substring](https://github.com/amit6002/Leetcode_Solution/tree/master/1946-largest-number-after-mutating-substring) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amit6002/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2233-maximum-product-after-k-increments](https://github.com/amit6002/Leetcode_Solution/tree/master/2233-maximum-product-after-k-increments) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/amit6002/Leetcode_Solution/tree/master/3467-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/amit6002/Leetcode_Solution/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1946-largest-number-after-mutating-substring](https://github.com/amit6002/Leetcode_Solution/tree/master/1946-largest-number-after-mutating-substring) |
+| [2233-maximum-product-after-k-increments](https://github.com/amit6002/Leetcode_Solution/tree/master/2233-maximum-product-after-k-increments) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amit6002/Leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/amit6002/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
+| [2233-maximum-product-after-k-increments](https://github.com/amit6002/Leetcode_Solution/tree/master/2233-maximum-product-after-k-increments) |
 ## Merge Sort
 |  |
 | ------- |
