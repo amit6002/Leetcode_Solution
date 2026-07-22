@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1946-largest-number-after-mutating-substring](https://github.com/amit6002/Leetcode_Solution/tree/master/1946-largest-number-after-mutating-substring) |
 | [2233-maximum-product-after-k-increments](https://github.com/amit6002/Leetcode_Solution/tree/master/2233-maximum-product-after-k-increments) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/amit6002/Leetcode_Solution/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amit6002/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0343-integer-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0343-integer-break) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/amit6002/Leetcode_Solution/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amit6002/Leetcode_Solution/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
