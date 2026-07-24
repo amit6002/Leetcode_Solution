@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/amit6002/Leetcode_Solution/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/amit6002/Leetcode_Solution/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amit6002/Leetcode_Solution/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0784-letter-case-permutation](https://github.com/amit6002/Leetcode_Solution/tree/master/0784-letter-case-permutation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bucket Sort
 |  |
 | ------- |
