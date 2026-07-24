@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/amit6002/Leetcode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/amit6002/Leetcode_Solution/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amit6002/Leetcode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amit6002/Leetcode_Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amit6002/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/amit6002/Leetcode_Solution/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amit6002/Leetcode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1540-can-convert-string-in-k-moves](https://github.com/amit6002/Leetcode_Solution/tree/master/1540-can-convert-string-in-k-moves) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/amit6002/Leetcode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/amit6002/Leetcode_Solution/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amit6002/Leetcode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amit6002/Leetcode_Solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/amit6002/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amit6002/Leetcode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amit6002/Leetcode_Solution/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3467-transform-array-by-parity](https://github.com/amit6002/Leetcode_Solution/tree/master/3467-transform-array-by-parity) |
