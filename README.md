@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/amit6002/Leetcode_Solution/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
+| [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amit6002/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/amit6002/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amit6002/Leetcode_Solution/tree/master/0455-assign-cookies) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/amit6002/Leetcode_Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/amit6002/Leetcode_Solution/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/amit6002/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/amit6002/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amit6002/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
+| [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/amit6002/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0567-permutation-in-string) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/amit6002/Leetcode_Solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/amit6002/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0856-score-of-parentheses](https://github.com/amit6002/Leetcode_Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amit6002/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amit6002/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/amit6002/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
