@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/amit6002/Leetcode_Solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0856-score-of-parentheses](https://github.com/amit6002/Leetcode_Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amit6002/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amit6002/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/amit6002/Leetcode_Solution/tree/master/0784-letter-case-permutation) |
+| [0856-score-of-parentheses](https://github.com/amit6002/Leetcode_Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amit6002/Leetcode_Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/amit6002/Leetcode_Solution/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
