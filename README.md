@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amit6002/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/amit6002/Leetcode_Solution/tree/master/0455-assign-cookies) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/amit6002/Leetcode_Solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/amit6002/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -189,12 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/amit6002/Leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amit6002/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/amit6002/Leetcode_Solution/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
