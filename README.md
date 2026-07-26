@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/amit6002/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/amit6002/Leetcode_Solution/tree/master/0055-jump-game) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/amit6002/Leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0918-maximum-sum-circular-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/amit6002/Leetcode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amit6002/Leetcode_Solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
