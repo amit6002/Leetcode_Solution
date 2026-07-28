@@ -1,8 +1,7 @@
 class Solution {
     public int countCompleteDayPairs(int[] hours) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-
+        int[] freq = new int[24];
         int ans = 0;
 
         for (int h : hours) {
@@ -11,9 +10,9 @@ class Solution {
 
             int need = (24 - rem) % 24;
 
-            ans += map.getOrDefault(need, 0);
+            ans += freq[need];
 
-            map.put(rem, map.getOrDefault(rem, 0) + 1);
+            freq[rem]++;
         }
 
         return ans;
