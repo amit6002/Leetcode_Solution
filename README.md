@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amit6002/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/amit6002/Leetcode_Solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/amit6002/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amit6002/Leetcode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amit6002/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/amit6002/Leetcode_Solution/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/amit6002/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/amit6002/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amit6002/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/amit6002/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0784-letter-case-permutation](https://github.com/amit6002/Leetcode_Solution/tree/master/0784-letter-case-permutation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
