@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/amit6002/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2233-maximum-product-after-k-increments](https://github.com/amit6002/Leetcode_Solution/tree/master/2233-maximum-product-after-k-increments) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/amit6002/Leetcode_Solution/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1540-can-convert-string-in-k-moves](https://github.com/amit6002/Leetcode_Solution/tree/master/1540-can-convert-string-in-k-moves) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Stack
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/amit6002/Leetcode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/amit6002/Leetcode_Solution/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/amit6002/Leetcode_Solution/tree/master/3467-transform-array-by-parity) |
 ## Enumeration
 |  |
