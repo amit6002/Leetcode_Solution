@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/amit6002/Leetcode_Solution/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/amit6002/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/amit6002/Leetcode_Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amit6002/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/amit6002/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/amit6002/Leetcode_Solution/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/amit6002/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/amit6002/Leetcode_Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/amit6002/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amit6002/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
