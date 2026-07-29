@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-largest-number-after-mutating-substring](https://github.com/amit6002/Leetcode_Solution/tree/master/1946-largest-number-after-mutating-substring) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amit6002/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2233-maximum-product-after-k-increments](https://github.com/amit6002/Leetcode_Solution/tree/master/2233-maximum-product-after-k-increments) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1540-can-convert-string-in-k-moves](https://github.com/amit6002/Leetcode_Solution/tree/master/1540-can-convert-string-in-k-moves) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
