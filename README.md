@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/amit6002/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2233-maximum-product-after-k-increments](https://github.com/amit6002/Leetcode_Solution/tree/master/2233-maximum-product-after-k-increments) |
+| [2352-equal-row-and-column-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/amit6002/Leetcode_Solution/tree/master/3467-transform-array-by-parity) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/amit6002/Leetcode_Solution/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amit6002/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2352-equal-row-and-column-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1540-can-convert-string-in-k-moves](https://github.com/amit6002/Leetcode_Solution/tree/master/1540-can-convert-string-in-k-moves) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amit6002/Leetcode_Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amit6002/Leetcode_Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amit6002/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amit6002/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [1260-shift-2d-grid](https://github.com/amit6002/Leetcode_Solution/tree/master/1260-shift-2d-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/amit6002/Leetcode_Solution/tree/master/2352-equal-row-and-column-pairs) |
 ## Tree
 |  |
 | ------- |
