@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amit6002/Leetcode_Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/amit6002/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/amit6002/Leetcode_Solution/tree/master/1260-shift-2d-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amit6002/Leetcode_Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/amit6002/Leetcode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/amit6002/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1540-can-convert-string-in-k-moves](https://github.com/amit6002/Leetcode_Solution/tree/master/1540-can-convert-string-in-k-moves) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/amit6002/Leetcode_Solution/tree/master/2418-sort-the-people) |
