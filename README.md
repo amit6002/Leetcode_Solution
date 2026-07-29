@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/amit6002/Leetcode_Solution/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/amit6002/Leetcode_Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
+| [0274-h-index](https://github.com/amit6002/Leetcode_Solution/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/amit6002/Leetcode_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/amit6002/Leetcode_Solution/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/amit6002/Leetcode_Solution/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/amit6002/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/amit6002/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/amit6002/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/amit6002/Leetcode_Solution/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amit6002/Leetcode_Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
