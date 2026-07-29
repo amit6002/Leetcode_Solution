@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/amit6002/Leetcode_Solution/tree/master/1124-longest-well-performing-interval) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amit6002/Leetcode_Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/amit6002/Leetcode_Solution/tree/master/1260-shift-2d-grid) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amit6002/Leetcode_Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/amit6002/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
 | [1946-largest-number-after-mutating-substring](https://github.com/amit6002/Leetcode_Solution/tree/master/1946-largest-number-after-mutating-substring) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/amit6002/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/amit6002/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amit6002/Leetcode_Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/amit6002/Leetcode_Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/amit6002/Leetcode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amit6002/Leetcode_Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amit6002/Leetcode_Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amit6002/Leetcode_Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
